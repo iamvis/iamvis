@@ -31,7 +31,7 @@
 ---
 
 ### 📅 Contributions (calendar)
-![GitHub Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=iamvis&theme=github)
+![GitHub Contribution Calendar](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
