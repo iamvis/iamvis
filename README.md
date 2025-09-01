@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Vishal  
 
-💻 **Full-Stack Developer | MERN Stack | Backend-Focused**  
-🚀 Passionate about building scalable, real-world applications  
-⚡ Exploring system design, real-time apps, and modern web tech  
+💻 **Full-Stack Developer (MERN) | Backend-Focused**  
+🚀 Building scalable, real-world applications  
+⚡ Exploring system design, real-time apps & modern web tech  
 
 ---
 
@@ -10,7 +10,7 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, PostgreSQL  
-- **Other:** REST APIs, WebSockets, JWT Auth, Cloud Deployment  
+- **Other:** REST APIs, WebSockets, JWT, Cloud Deployment  
 
 ---
 
@@ -30,16 +30,17 @@
 
 ---
 
-### 📅 Contributions (calendar)
-![GitHub Contribution Calendar](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## 🐍 Contributions  
+![GitHub Snake Animation](https://github.com/iamvis/iamvis/blob/output/snake.svg)
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/vishal-prajapati-6708961b7/])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/vishal-prajapati-6708961b7/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_LINK)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:prjpativishal82141@gmail.com)  
 
 ---
 
 ✨ *“Code. Create. Contribute. Continuously improve.”*  
+
