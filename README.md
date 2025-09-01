@@ -30,11 +30,6 @@
 
 ---
 
-## 🐍 Contributions  
-![GitHub Snake Animation](https://github.com/iamvis/iamvis/blob/output/snake.svg)
-
----
-
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/vishal-prajapati-6708961b7/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_LINK)  
